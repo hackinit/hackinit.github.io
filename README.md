@@ -1,67 +1,19 @@
-# Welcome to git-wiki demo
+# Cayman theme
 
-This is a [demo](wiki/Demo.md) of git-wiki theme for jekyll.
+Cayman is a clean, responsive theme for [GitHub Pages](https://pages.github.com). This theme is available as an option if you use the [Automatic Page Generator](https://help.github.com/articles/creating-pages-with-the-automatic-generator/) or you can copy the template and styles to use on your own.
 
-it's a full featured wiki powered by git, github pages and pull-requests!
+You can preview the theme at http://jasonlong.github.io/cayman-theme or with real content at http://jasonlong.github.io/geo_pattern.
 
-It means: 
+![](http://cl.ly/image/1T3r3d18311V/content)
 
-* Improvements in the cooperative aspect: forks, pull-requests and roles.
-* You can customize your wiki as you want with style sheets and even changing the layout.
-* No databases! Only static files that can be downloaded in a few seconds.
-* Markdown and html mixed together!
-* History, revision comparison and everything you need from a wiki platform.
-* You can edit your pages with the standard git editor, prose.io (integrated) or any kind of editor you prefer.
+# Customizations
 
-You can fork/copy the master branch now and start your wiki in just 1 minute.
+If you copy this theme for your own needs, feel free to customize the colors however you like. A couple of nice sources for gradient colors are http://uigradients.com and http://jxnblk.com/shade/.
 
-Then [share your wiki with us!](wiki/Showreel.md) please.
+# Using with Jekyll
 
-**Note:**
-You can even include the github wiki as a submodule and enable the conf, but it's an experimental feature and it implies less advantages and greater disadvantages for now.
+If you'd like to use this theme with Jekyll, Pietro Menna has put together a package to make it easy. You can find it at https://github.com/pietromenna/jekyll-cayman-theme
 
-## Installation instructions
+# License
 
-1. Fork or copy [this repository](https://github.com/drassil/git-wiki)
-
-2. copy and rename _config.yml.dist in _config.yml changing settings inside
-
-3. create your index.md in root directory
-
-4. push your changes in your repository, then configure the github pages in your repository settings
-
-5. Your wiki is ready!
-
-**Note:**
-
-We suggest the creation of a /wiki/ subfolder that collects all your .md pages (except index.md)
-
-## Current known limitations
-
-* Non-existent wiki page links are not "[red](wiki/red.md)".
-
-* You can't use the wiki link format: [[example]]. Please, use gh-pages links instead: \[example\](example) 
-
-## Customization
-
-You can create following files in _includes folder to costumize git-wiki without patching original code:
-
-* head.html  -> this file will be included in <head> tag allowing you to add css/js and any kind of head tags
-* sidebar.html -> this file will be included in left sidebar allowing you to create your widgets
-* comments.html -> this is mostly used to integrate social comments under page contents
-* footer.html -> this file will be included in left side of the footer.
-
-## Looking for collaboration
-
-Do you like this project? then, contact us via [chat](https://gitter.im/Drassil/general?utm_source=share-link&utm_medium=link&utm_campaign=share-link) , <a href="mailto:staff-drassil@googlegroups.com">email</a>  or send us a PR to improve it.
-
-Thank you!
-
-## Components used
-
-- [jekyll-table-of-contents](https://github.com/ghiculescu/jekyll-table-of-contents)
-
-- [jQuery](https://jquery.com/)
-
-
-[MIT LICENSE](LICENSE)
+This work is licensed under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) license.
