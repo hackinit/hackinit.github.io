@@ -14,22 +14,23 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
-
-.btn {
+  .btn {
   display: inline-block;
   margin-bottom: 1rem;
-  color: rgba(255, 255, 255, 0.7);
-  background-color: rgba(255, 255, 255, 0.08);
-  border-color: rgba(255, 255, 255, 0.2);
+  color: rgba(255, 255, 255, 0.9);
+  background-color: rgba(21, 142, 160, 0.45);
+  border-color: rgba(0, 255, 255, 0.25);
   border-style: solid;
-  border-width: 1px;
-  border-radius: 0.3rem;
-  transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
+  border-width: 1.1px;
+  border-radius: 0.2rem;
+  transition: color 0.3s, background-color 0.3s, border-color 0.2s;
+  /* padding: 5px; */
+  }
   .btn:hover {
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(255, 255, 255, 1);
     text-decoration: none;
-    background-color: rgba(255, 255, 255, 0.2);
-    border-color: rgba(255, 255, 255, 0.3); }
+    background-color: rgba(21, 142, 160, 0.65);
+    border-color: rgba(83, 214, 255, 0.64); }
   .btn + .btn {
     margin-left: 1rem; }
   @media screen and (min-width: 64em) {
