@@ -1,0 +1,20 @@
+title: Open hack.init()
+description: 从组织推动中国黑客文化发展
+show_downloads: false
+git_branch: master
+logo_url:
+google_analytics:
+theme: 
+wiki_folder: wiki
+use_github_wiki: false
+use_prose_io: true
+google_cse_token: 
+custom_head: true
+custom_sidebar: true
+custom_footer: true
+gems:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-feed
