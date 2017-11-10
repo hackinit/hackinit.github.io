@@ -1,19 +1,19 @@
-# Cayman theme
+# hack.init() 公开资源库
 
-Cayman is a clean, responsive theme for [GitHub Pages](https://pages.github.com). This theme is available as an option if you use the [Automatic Page Generator](https://help.github.com/articles/creating-pages-with-the-automatic-generator/) or you can copy the template and styles to use on your own.
+## 说明
 
-You can preview the theme at http://jasonlong.github.io/cayman-theme or with real content at http://jasonlong.github.io/geo_pattern.
+hack.init() 是中国顶级的青年人创客马拉松。并以宣传包容性与文化多样性为核心。作为少有的开放给高中生的创客马拉松，我们将全国各地300名有才干的年轻人聚集在上海，于2017年7月8日至9日在上海科技大学成功举办。
 
-![](http://cl.ly/image/1T3r3d18311V/content)
+作为创客马拉松的组织者，我们在过去数个月的筹划及活动结束后的反思中发现在中国，面向组织者的中文资源非常少，在一定程度上为创客马拉松的组织提高了不必要的门槛。hack.init() 团队决定开放本次活动中的全部法律文件及部分运营文件，供之后的所有创客马拉松组织者参考。
 
-# Customizations
+同时，我们呼吁中国所有创客马拉松组织团队通过 Pull Request 或提交 Issues 的方式，向本资源库贡献内容。
 
-If you copy this theme for your own needs, feel free to customize the colors however you like. A couple of nice sources for gradient colors are http://uigradients.com and http://jxnblk.com/shade/.
+## 与我们联系
 
-# Using with Jekyll
+请通过电子邮件联系我们：[contact@hackinit.org](mailto:contact@hackinit.org)
 
-If you'd like to use this theme with Jekyll, Pietro Menna has put together a package to make it easy. You can find it at https://github.com/pietromenna/jekyll-cayman-theme
+## 授权信息
 
-# License
+除另有标注的，本资源库中全部内容根据 [CC-BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) 国际许可开源。[hack.init()](http://hackinit.io/zh) 及其法律主体上海创喵信息科技有限公司明确声明 (A) 无法对任何资料之准确性、充分性或完整性负责，并且 (B) 无法对此等资料的任何错误、遗漏、缺失、延误、中断或出于对资料的信赖而采取的任何行动承担责任。
 
-This work is licensed under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) license.
+本网站所使用模版根据 [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/) 国际许可使用。
