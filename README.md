@@ -14,6 +14,6 @@ hack.init() 是中国顶级的青年人创客马拉松。并以宣传包容性�
 
 ## 授权信息
 
-除另有标注的，本资源库中全部内容根据 [CC-BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) 国际许可开源。[hack.init()](http://hackinit.io/zh) 及其法律主体上海创喵信息科技有限公司明确声明 (A) 无法对任何资料之准确性、充分性或完整性负责，并且 (B) 无法对此等资料的任何错误、遗漏、缺失、延误、中断或出于对资料的信赖而采取的任何行动承担责任。
+除另有标注的，本资源库中全部内容根据 [CC-BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) 国际许可开源。[hack.init()](https://hackinit.org/zh) 及其法律主体上海创喵信息科技有限公司明确声明 (A) 无法对任何资料之准确性、充分性或完整性负责，并且 (B) 无法对此等资料的任何错误、遗漏、缺失、延误、中断或出于对资料的信赖而采取的任何行动承担责任。
 
 本网站所使用模版根据 [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/) 国际许可使用。
